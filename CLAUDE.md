@@ -5,7 +5,7 @@
 - Dev: `bun run src/index.ts`
 - Test: `bun test`
 - Lint: `bun run lint`
-- Format: `bun run format`
+- Lint fix: `bun run lint:fix`
 
 ## Architecture
 - Source code in `src/`
