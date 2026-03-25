@@ -1,0 +1,15 @@
+{
+  "name": "{{project_name}}",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src/",
+    "format": "prettier --write src/"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "eslint": "^9",
+    "prettier": "^3"
+  }
+}
